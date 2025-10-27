@@ -30,7 +30,7 @@ body {
   -webkit-text-fill-color: transparent;
   background-clip: text;
   text-align: center;
-  font-size: 18rem;
+  font-size: 15rem;
   margin-bottom: 3rem;
 }
 
@@ -64,4 +64,5 @@ h2 {
   margin-top: auto;
   padding: 2rem 1rem 1rem;
   width: 100%;
+  margin-bottom: 0;
 }
